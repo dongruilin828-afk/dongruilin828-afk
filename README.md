@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## PGP Public Key
+
+You can use my OpenPGP public key to send me encrypted messages.
+
+Public key:
+
+[Download publickey.asc](./publickey.asc)
+
+Fingerprint:
+
+F58E16ED4DA96CE0C7B28A4B8A1C54C27BC1D8E2
